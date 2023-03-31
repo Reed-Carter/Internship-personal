@@ -3,3 +3,4 @@ requests-html
 html5lib
 jupyterlab
 vobject
+selenium
