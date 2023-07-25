@@ -4,3 +4,6 @@ html5lib
 jupyterlab
 vobject
 selenium
+scikit-image
+tensorflow
+keras
